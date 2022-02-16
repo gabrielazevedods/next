@@ -1,0 +1,1 @@
+{"c":["pages/movies","webpack"],"r":["pages/movies2"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fmovies2&absolutePagePath=C%3A%5CUsers%5Cgabri%5CDesktop%5Cnext%5Cpages%5Cmovies2.js!","./node_modules/next/dist/compiled/@babel/runtime/helpers/esm/asyncToGenerator.js","./node_modules/swr/dist/index.mjs","./pages/movies2.js"]}
